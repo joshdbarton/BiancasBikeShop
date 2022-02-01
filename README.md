@@ -21,7 +21,7 @@ You can use any resources to complete these tasks other than copying code from a
 
 ## Some Pointers
 1. You do not need to remove or refactor any of the code in this template in order to complete the assignment, only add code in the appropriate places.
-1. You should be able to run both the client and api apps when you've finished the set up. If they don't work, ask an instructor for clarification.  
+1. You should be able to run both the client and api apps when you've finished the setup. If they don't work, ask an instructor for clarification.  
 
 ## ERD
 ![ERD](./BiancasBikeShop.png)
