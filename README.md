@@ -1,5 +1,5 @@
 # Bianca's Bike Shop 🚴‍♂️
-Our customer Bianca has hired us to build an inventory management system for her bike shop. She wants to keep track of the bike owners she works with, the bikes that they've brought to the shop for repairs, and the maintenance history for each bike. 
+Our customer Bianca has hired us to build an inventory management system for her bike shop. She wants to keep track of the bike owners she works with, the bikes that they have brought to the shop for repairs, and the maintenance history for each bike. 
 
 ## Setup
 1. clone this repo
@@ -21,7 +21,8 @@ You can use any resources to complete these tasks other than copying code from a
 
 ## Some Pointers
 1. You do not need to remove or refactor any of the code in this template in order to complete the assignment, only add code in the appropriate places.
-1. You should be able to run both the client and api apps when you've finished the setup. If they don't work, ask an instructor for clarification.  
+1. You should be able to run both the client and api apps when you have finished the setup. If they don't work, ask an instructor for clarification.  
+1. Familiarize yourself with the code in the repository before coding your solutions, otherwise you may end up writing code for functionality that has already been implemented. 
 
 ## ERD
 ![ERD](./BiancasBikeShop.png)
