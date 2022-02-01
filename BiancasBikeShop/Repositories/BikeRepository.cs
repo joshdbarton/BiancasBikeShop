@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-// renaming here so that code looks the same as if we were using ADO.NET for SQL Server
-using SqlConnection = Microsoft.Data.Sqlite.SqliteConnection;
+using Microsoft.Data.SqlClient;
 using BiancasBikeShop.Models;
 
 namespace BiancasBikeShop.Repositories
@@ -14,7 +11,7 @@ namespace BiancasBikeShop.Repositories
         {
             get
             {
-                return new SqlConnection("Data Source=BiancasBikeShop.sqlite3");
+                return new SqlConnection("server=localhost\\SQLExpress;database=BiancasBikeShop;integrated security=true;TrustServerCertificate=true");
             }
         }
 
